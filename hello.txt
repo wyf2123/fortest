@@ -1,2 +1,7 @@
 fortest测试
+<<<<<<< HEAD
 second  (test clash) change
+=======
+secondchange
+develop first change
+>>>>>>> develop
